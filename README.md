@@ -48,7 +48,7 @@ plt.show()
 
 ## Output
 
-![OUTPUT](/output1.png)
+![OUTPUT](/OUTPUT1(1).png)
 
 ![OUTPUT](/output2.png)
 
