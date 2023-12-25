@@ -27,7 +27,7 @@ import matplotlib.pyplot as plt
 x=np.array([0,1,2,3,4,5,6,7,8,9])
 y=np.array([1,3,2,5,7,8,8,9,10,12])
 
-plt.scatter(x,y,color='cyan')
+plt.scatter(x,y,color='purple')
 plt.show()
 xmean=np.mean(x)
 ymean=np.mean(y)
@@ -48,7 +48,7 @@ plt.show()
 
 ## Output
 
-![OUTPUT](/output1%20(2).png)
+![OUTPUT](/output1.png)
 
 ![OUTPUT](/output2.png)
 
